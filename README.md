@@ -16,7 +16,7 @@ Become a **Data Scientist / AI-ML Engineer / GenAI Engineer**
 |---|-------|--------|---------|
 | 0 | Git & GitHub | ✅ | This repo, Interview question & Cheat-Sheet|
 | 1 | Python | 🔄 | AI Expense Tracker · Resume Keyword Scanner |
-| 2 | NumPy & Pandas | ⬜ | Zomato Analytics · Startup Funding Analysis |
+| 2 | Data Processing (numpy & pandas) | ⬜ | Zomato Analytics · Startup Funding Analysis |
 | 3 | SQL | ⬜ | Blinkit Inventory DB · Fintech Transaction Analysis |
 | 4 | Math & Statistics | ⬜ | Cricket Probability Simulator · A/B Testing Simulator |
 | 5 | Data Visualization | ⬜ | IPL Analytics Dashboard · Startup Funding Dashboard |
