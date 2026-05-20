@@ -61,8 +61,8 @@ UV in Python
 - [UV Official Docs](https://docs.astral.sh/uv/)
 
 What is API & FastAPI
-- [YouTube — What is API?](https://youtu.be/7t2alSnE2-I?si=_-VIRiACknHRo6N0)
-- [YouTube — FastAPI Full Course](https://www.youtube.com/watch?v=WJKsPchji0Q&list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)
+- [YouTube — FastAPI Full Course](https://youtu.be/7t2alSnE2-I?si=_-VIRiACknHRo6N0)
+- [YouTube — What is API?](https://www.youtube.com/watch?v=WJKsPchji0Q&list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)
 - [FastAPI Official Docs](https://fastapi.tiangolo.com/python-types/#type-hints-in-fastapi)
 
 **Practice:**
