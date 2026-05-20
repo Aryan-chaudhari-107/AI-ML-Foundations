@@ -24,6 +24,11 @@ starting from the very basics and gradually moving towards more complex programs
 - [YouTube](https://www.youtube.com)
 - [Udemy — 100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu](https://www.udemy.com/course/100-days-of-code/)
 
+**Practice:**
+- Follow the path — Beginner → Intermediate → Advance
+- DSA in Python
+- Interview questions on HackerRank
+
 > 💡 **Note:** Learn and build projects side by side — do not waste time finding the perfect resource.
 
 ---
@@ -59,6 +64,11 @@ What is API & FastAPI
 - [YouTube — What is API?](https://youtu.be/7t2alSnE2-I?si=_-VIRiACknHRo6N0)
 - [YouTube — FastAPI Full Course](https://www.youtube.com/watch?v=WJKsPchji0Q&list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)
 - [FastAPI Official Docs](https://fastapi.tiangolo.com/python-types/#type-hints-in-fastapi)
+
+**Practice:**
+- Push every project to GitHub — build the habit early
+- Build a small FastAPI project and deploy it
+- Use UV and virtual environments in every new project
 
 > 💡 **Note:** Master these tools before jumping into ML — they will save you hours of debugging and make your workflow 10x faster.
 
