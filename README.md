@@ -74,37 +74,39 @@ What is API & FastAPI
 
 ---
 
-## 📊 03-Data-Processing 🟡
+## 📐 03-Math-Stats 🔴
 
+---
 
+## 📊 04-Data-Processing-Visualization 🟡
 
-## 📐 04-Math-Stats
+---
 
+## 🤖 05-AI-Coding 🔴
 
+---
 
-## 📈 05-Data-Visualization
+## 🧠 06-Machine-Learning 🔴
 
+---
 
+## 🧠 07-Deep-Learning 🔴
 
-## 🤖 06-Machine-Learning 🟡
+---
 
+## ✨ 08-Generative-AI-LLMs 🔴
 
+---
 
-## 🧠 07-Deep-Learning
+## 🚀 09-Deployment 🔴
 
+---
 
+## ☁️ 10-Cloud-MLOps 🔴
 
-## ✨ 08-Generative-AI-LLMs
+---
 
-
-
-## 🚀 09-Deployment
-
-
-
-## ☁️ 10-Cloud-MLOps
-
-
+## 🏗️ Projects
 
 ## 🏗️ Projects
 
