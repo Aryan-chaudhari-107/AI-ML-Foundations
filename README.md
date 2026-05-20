@@ -4,8 +4,11 @@ I'm learning Machine Learning and Data Science from scratch, one concept at a ti
 This repo is my second brain — everything I study, practice, and build lives here.
 
 ---
+🟡 In Progress
+🟢 Completed
+🔴 Not Started
 
-## 🐍 00-Python
+## 🐍 00-Python 🟡
 
 This folder contains three levels of Python projects I am currently building while learning —
 starting from the very basics and gradually moving towards more complex programs.
@@ -25,16 +28,43 @@ starting from the very basics and gradually moving towards more complex programs
 
 ---
 
+## 🗄️ 01-SQL 🟡
 
-## 🛠️ 01-Software-Essentials
+## 🛠️ 02-Software-Essentials 🟢
 
+This folder contained the essential developer tools and concepts I learned —
+the foundation every data scientist and ML engineer needs before writing real code.
 
+```
+02-Software-Essentials/
+├── Git-and-GitHub/
+├── Virtual-Environment/
+├── UV-in-Python/
+└── What-is-API-FastAPI/
+```
 
-## 📊 02-Data-Processing
+**Resources:**
 
+Git and GitHub
+- [YouTube](https://www.youtube.com)
 
+Virtual Environment
+- [YouTube](https://www.youtube.com)
 
-## 🗄️ 03-SQL
+UV in Python
+- [YouTube](https://www.youtube.com)
+- [UV Official Docs](https://docs.astral.sh/uv/)
+
+What is API & FastAPI
+- [YouTube — What is API?](https://youtu.be/7t2alSnE2-I?si=_-VIRiACknHRo6N0)
+- [YouTube — FastAPI Full Course](https://www.youtube.com/watch?v=WJKsPchji0Q&list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)
+- [FastAPI Official Docs](https://fastapi.tiangolo.com/python-types/#type-hints-in-fastapi)
+
+> 💡 **Note:** Master these tools before jumping into ML — they will save you hours of debugging and make your workflow 10x faster.
+
+---
+
+## 📊 03-Data-Processing 🟡
 
 
 
@@ -46,7 +76,7 @@ starting from the very basics and gradually moving towards more complex programs
 
 
 
-## 🤖 06-Machine-Learning
+## 🤖 06-Machine-Learning 🟡
 
 
 
