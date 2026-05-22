@@ -17,7 +17,7 @@ This folder contains three levels of Python projects I am currently building whi
 ```
 
 **Resources:**
-- [YouTube](https://www.youtube.com)
+- [YouTube](https://youtu.be/ix9cRaBkVe0?si=i6uBnN0Fs6Gl2pA2)
 - [Udemy — 100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu](https://www.udemy.com/course/100-days-of-code/)
 
 **Practice:**
@@ -47,7 +47,7 @@ It includes both learning material and practical implementations for required to
 **Resources:**
 
 Git and GitHub
-- [YouTube](https://www.youtube.com)
+- [YouTube](https://youtu.be/apGV9Kg7ics?si=R_I5UW5RPzQtalBh)
 
 Virtual Environment
 - [YouTube](https://www.youtube.com)
@@ -62,7 +62,7 @@ What is API & FastAPI
 - [FastAPI Official Docs](https://fastapi.tiangolo.com/python-types/#type-hints-in-fastapi)
 
 Docker
-- [YouTube](https://www.youtube.com)
+- [YouTube](https://youtu.be/pg19Z8LL06w?si=BBm3D1ouxm013Gj4)
 
 **Practice:**
 - Build Projects 
