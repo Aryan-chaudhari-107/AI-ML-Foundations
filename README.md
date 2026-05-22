@@ -4,11 +4,8 @@ I'm learning Machine Learning and Data Science from scratch, one concept at a ti
 This repo is my second brain — everything I study, practice, and build lives here.
 
 ---
-🟡 In Progress
-🟢 Completed
-🔴 Not Started
 
-## 🐍 00-Python 🟡
+## 🐍 00-Python 
 
 This folder contains three levels of Python projects I am currently building while learning —
 starting from the very basics and gradually moving towards more complex programs.
@@ -33,9 +30,9 @@ starting from the very basics and gradually moving towards more complex programs
 
 ---
 
-## 🗄️ 01-SQL 🟡
+## 🗄️ 01-SQL 
 
-## 🛠️ 02-Software-Essentials 🟢
+## 🛠️ 02-Software-Essentials 
 
 This folder contained the essential developer tools and concepts I learned —
 the foundation every data scientist and ML engineer needs before writing real code.
@@ -78,35 +75,35 @@ Docker
 
 ---
 
-## 📐 03-Math-Stats 🔴
+## 📐 03-Math-Stats 
 
 ---
 
-## 📊 04-Data-Processing-Visualization 🟡
+## 📊 04-Data-Processing-Visualization 
 
 ---
 
-## 🤖 05-AI-Coding 🔴
+## 🤖 05-AI-Coding 
 
 ---
 
-## 🧠 06-Machine-Learning 🔴
+## 🧠 06-Machine-Learning 
 
 ---
 
-## 🧠 07-Deep-Learning 🔴
+## 🧠 07-Deep-Learning 
 
 ---
 
-## ✨ 08-Generative-AI-LLMs 🔴
+## ✨ 08-Generative-AI-LLMs 
 
 ---
 
-## 🚀 09-Deployment 🔴
+## 🚀 09-Deployment 
 
 ---
 
-## ☁️ 10-Cloud-MLOps 🔴
+## ☁️ 10-Cloud-MLOps 
 
 ---
 
