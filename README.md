@@ -7,8 +7,7 @@ This repo is my second brain — everything I study, practice, and build lives h
 
 ## 🐍 00-Python 
 
-This folder contains three levels of Python projects I am currently building while learning —
-starting from the very basics and gradually moving towards more complex programs.
+This folder contains three levels of Python projects I am currently building while learning
 
 ```
 00-Python/
@@ -34,9 +33,8 @@ starting from the very basics and gradually moving towards more complex programs
 
 ## 🛠️ 02-Software-Essentials 
 
-This folder contained the essential developer tools and concepts I learned —
-the foundation every data scientist and ML engineer needs before writing real code.
-
+This folder contains my notes and projects related to essential tools, concepts, and technologies used in Data Science, Machine Learning, and AI.
+It includes both learning material and practical implementations for required topics.
 ```
 02-Software-Essentials/
 ├── Git-and-GitHub/
