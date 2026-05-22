@@ -65,9 +65,7 @@ Docker
 - [YouTube](https://www.youtube.com)
 
 **Practice:**
-- Push every project to GitHub — build the habit early
-- Build a small FastAPI project and deploy it
-- Use UV and virtual environments in every new project
+- Build Projects 
 
 > 💡 **Note:** Master these tools before jumping into ML — they will save you hours of debugging and make your workflow 10x faster.
 
