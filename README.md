@@ -45,7 +45,8 @@ the foundation every data scientist and ML engineer needs before writing real co
 ├── Git-and-GitHub/
 ├── Virtual-Environment/
 ├── UV-in-Python/
-└── What-is-API-FastAPI/
+├── What-is-API-FastAPI/
+└── Docker/
 ```
 
 **Resources:**
@@ -64,6 +65,9 @@ What is API & FastAPI
 - [YouTube — FastAPI Full Course](https://youtu.be/7t2alSnE2-I?si=_-VIRiACknHRo6N0)
 - [YouTube — What is API?](https://www.youtube.com/watch?v=WJKsPchji0Q&list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)
 - [FastAPI Official Docs](https://fastapi.tiangolo.com/python-types/#type-hints-in-fastapi)
+
+Docker
+- [YouTube](https://www.youtube.com)
 
 **Practice:**
 - Push every project to GitHub — build the habit early
