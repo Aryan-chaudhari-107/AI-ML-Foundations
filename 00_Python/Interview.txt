@@ -1,0 +1,8 @@
+# Read all the questions for your interview:
+
+
+https://www.datacamp.com/blog/top-python-interview-questions-and-answers
+
+https://www.geeksforgeeks.org/python/python-interview-questions/
+
+https://www.w3schools.com/python/python_interview_questions.asp
